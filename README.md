@@ -1,8 +1,7 @@
 🗳 Simple Voting DApp
 📌 Project Overview
-
 This is my first blockchain project built using Solidity and Remix IDE.
-It is a simple decentralized voting system where users can vote for candidates and the results are stored on the blockchain.
+It is a simple decentralized voting system where users can vote for candidates and results are stored on the blockchain.
 
 ⚙️ Features
 Vote for Candidate A or B
@@ -18,12 +17,12 @@ Ethereum (Remix VM)
 🚀 How it works
 Contract is deployed
 Users call voteA() or voteB()
-Votes are stored on blockchain state variables
+Votes are stored on blockchain
 votesA() and votesB() show updated results
 
 🧠 What I Learned
 Basics of smart contracts
-How blockchain transactions work
+Blockchain transaction flow
 State variables in Solidity
 Deploying contracts using Remix
 
@@ -32,14 +31,9 @@ MetaMask integration
 Frontend UI (React/HTML)
 Deploy on Sepolia testnet
 
-👩‍💻 Author
-Beginner blockchain developer exploring Web3 development
-
-
 
 📝 Todo DApp (Smart Contract Project)
 📌 Project Overview
-
 This is a decentralized Todo application built using Solidity.
 It allows users to add tasks, toggle completion status, and delete tasks.
 All data is stored on the blockchain using smart contract storage.
@@ -67,4 +61,7 @@ Data is read using getTask() and getTaskCount()
 Structs and arrays in Solidity
 CRUD operations in smart contracts
 State management on blockchain
-Difference between view and transaction functions
+View vs transaction functions
+👩‍💻 Author
+
+Beginner blockchain developer exploring Web3 development
